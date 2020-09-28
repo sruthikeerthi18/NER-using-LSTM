@@ -1,1 +1,2 @@
-# NER-using-LSTM
+# NER using LSTM
+Named Entity Recognition is a very prominate technique in natural language processing to identify the main subjects and objects in a sentence. Long short term memory models has an abaility to store information from the past to calculate the future output. Bi Directional models propress the inputs in both the directions. The combination of these help in indentifying the entities in a sentence.  
